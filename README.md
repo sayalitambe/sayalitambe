@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayali Tambe
 
-<!--
-**sayalitambe/sayalitambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Computer Science at Saarland University  
+📊 Aspiring Data Analyst / Python Developer  
+🔍 Interested in data-driven decision making, machine learning, and sustainable AI
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python, SQL, Pandas, NumPy
+- Data Analysis & Visualization (Matplotlib, Seaborn)
+- Machine Learning (Scikit-learn, PyTorch)
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 📊 Insurance Claims Data Analysis  
+- 📰 Fake News Detection using Machine Learning  
+- 🌱 Sustainable AI & Data Efficiency Research
+
+### 📫 Connect with me
+- LinkedIn: <your-link>
