@@ -11,10 +11,5 @@
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, AWS
 
-### 📌 Featured Projects
-- 📊 Insurance Claims Data Analysis  
-- 📰 Fake News Detection using Machine Learning  
-- 🌱 Sustainable AI & Data Efficiency Research
-
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sayali-tambe-4a909a15a/
