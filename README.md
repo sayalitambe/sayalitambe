@@ -17,4 +17,4 @@
 - 🌱 Sustainable AI & Data Efficiency Research
 
 ### 📫 Connect with me
-- LinkedIn: <(https://www.linkedin.com/in/sayali-tambe-4a909a15a/)>
+- LinkedIn: https://www.linkedin.com/in/sayali-tambe-4a909a15a/
