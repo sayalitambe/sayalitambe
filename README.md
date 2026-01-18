@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sayali Tambe
 
 🎓 Master's student in Computer Science at Saarland University  
-📊 Aspiring Data Analyst / Python Developer  
+📊 Aspiring Data Analyst
 🔍 Interested in data-driven decision making, machine learning, and sustainable AI
 
 ### 🛠 Skills
@@ -17,4 +17,4 @@
 - 🌱 Sustainable AI & Data Efficiency Research
 
 ### 📫 Connect with me
-- LinkedIn: <your-link>
+- LinkedIn: <[your-link](https://www.linkedin.com/in/sayali-tambe-4a909a15a/)>
