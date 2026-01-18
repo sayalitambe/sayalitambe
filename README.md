@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sayali Tambe
 
 🎓 Master's student in Computer Science at Saarland University  
-📊 Aspiring Data Analyst
+📊 Aspiring Data Analyst  
 🔍 Interested in data-driven decision making, machine learning, and sustainable AI
 
 ### 🛠 Skills
